@@ -93,7 +93,4 @@ with `pd.read_csv('WA_Fn-UseC_-HR-Employee-Attrition.csv')`.
 ## Author
 
 Submitted as part of the **IBM SkillsBuild – Data Analytics with AI Academic Internship
-Program**, BharatCares × AICTE.
-
-*(Replace "YourName" in the file names above and this section with your actual name before
-final submission.)*
+Program**, BharatCares 
